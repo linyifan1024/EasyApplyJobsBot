@@ -1,14 +1,14 @@
 personalInfo:
-  First Name: Yifan
-  Last Name: Lin
+  First Name: First Name
+  Last Name: LastName
   Phone Country Code: United States (+1) # See linkedin for your country code, must be exact
-  Mobile Phone Number: 4699563427
-  Street address: 19502 Juniper Vale Cir
+  Mobile Phone Number: you phone 
+  Street address: your address
   City: Houston, Texas # Include the state/province as well!
   State: Texas
-  Zip: 77084/77084
-  Linkedin: https://www.linkedin.com/in/yifanlin-1024/
-  Website: https://github.com/linyifan1024 # github/website is interchangable here
+  Zip: zip code
+  Linkedin: https://www.linkedin.com/in/your linkedin
+  Website:  # github/website is interchangable here
 
 # How many years of "TECHNOLOGY" experience do you currently have? (whole numbers only)
 experience do you currently have:
